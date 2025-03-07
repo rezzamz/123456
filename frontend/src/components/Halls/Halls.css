@@ -1,0 +1,24 @@
+.halls-container {
+    padding: 20px;
+  }
+  
+  .hall-cards {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .hall-card {
+    width: 150px;
+    height: 150px;
+    background-color: #eaeaea;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .hall-card.add-hall {
+    background-color: #d4edda;
+    font-size: 2em;
+  }

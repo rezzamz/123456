@@ -1,0 +1,29 @@
+.hall-detail-container {
+  padding: 20px;
+}
+
+.daily-data-form input {
+  display: block;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 300px;
+}
+
+.daily-data-form button {
+  padding: 10px 20px;
+}
+
+.daily-data-list {
+  margin-top: 20px;
+}
+
+.daily-data-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.daily-data-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
